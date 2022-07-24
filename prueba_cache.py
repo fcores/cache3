@@ -21,4 +21,3 @@ fin_2=time()-inicio_2
 print(fin_1)
 print(fin_2)
 
-print("FINESSSSSSSkkkSSSSSSS")
