@@ -22,5 +22,3 @@ print(fin_1)
 print(fin_2)
 
 print("FINESSSSSSSkkkSSSSSSS")
-print("Otro")
-print("otros")
